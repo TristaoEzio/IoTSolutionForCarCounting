@@ -2,19 +2,19 @@ int accumulator = 0;
 
 /*  
   * Segment pins
-  * a= 13 Green
-  * b= 12 Orange
-  * c= 11 Yellow
-  * d= 10 Turquoise
-  * e= 9  Purple
-  * f= 8  Pink
-  * g= 7  Brown
-  * pushbutton Entry= 6 Blue
-  * pushbutton Exit= 5 Grey
-  * Led Entry= 4 White
-  * Led Exit= 3 Green
-  * Led Free Slots= 2 Orange
-  * Led Full Parking= 1 Yellow
+  * a= 13
+  * b= 12
+  * c= 11
+  * d= 10
+  * e= 9
+  * f= 8
+  * g= 7
+  * pushbutton Entry= 6
+  * pushbutton Exit= 5
+  * Led Entry= 4
+  * Led Exit= 3
+  * Led Free Slots= 2
+  * Led Full Parking= 1
 */  
 
 void setup() {
